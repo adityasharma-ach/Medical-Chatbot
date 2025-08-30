@@ -1,0 +1,10 @@
+openai
+langchain
+transformers
+sentence-transformers
+faiss-cpu
+streamlit
+langchain-community
+fastapi
+flask
+pydantic
