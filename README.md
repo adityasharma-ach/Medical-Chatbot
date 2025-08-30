@@ -18,3 +18,6 @@ sh template.sh
 git add .
 git commit -m "Initial commit"
 git push origin main
+setup vesrion in setup.py
+add libraries and packages in requirements.txt
+pip install -r requiremensts.txt

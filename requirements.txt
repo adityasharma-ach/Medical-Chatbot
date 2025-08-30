@@ -5,6 +5,11 @@ sentence-transformers
 faiss-cpu
 streamlit
 langchain-community
+langchain-openai
+langchain-pinecone
 fastapi
 flask
 pydantic
+pypdf
+python-dotenv
+-e .
