@@ -1,0 +1,16 @@
+openai
+langchain
+transformers
+sentence-transformers
+faiss-cpu
+streamlit
+langchain-community
+langchain-openai
+langchain-pinecone
+fastapi
+flask
+pydantic
+pypdf
+python-dotenv
+langchain_google_genai
+-e .
